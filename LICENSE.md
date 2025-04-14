@@ -61,17 +61,17 @@ individual, individuals, entity or entities who created the Work or if
 no individual or entity can be identified, the publisher; and in
 addition
 
--   in the case of a performance the actors, singers, musicians,
-    dancers, and other persons who act, sing, deliver, declaim, play in,
-    interpret or otherwise perform literary or artistic works or
-    expressions of folklore;
+- in the case of a performance the actors, singers, musicians,
+  dancers, and other persons who act, sing, deliver, declaim, play in,
+  interpret or otherwise perform literary or artistic works or
+  expressions of folklore;
 
--   in the case of a phonogram the producer being the person or legal
-    entity who first fixes the sounds of a performance or other sounds;
-    and,
+- in the case of a phonogram the producer being the person or legal
+  entity who first fixes the sounds of a performance or other sounds;
+  and,
 
--   in the case of broadcasts, the organization that transmits the
-    broadcast.
+- in the case of broadcasts, the organization that transmits the
+  broadcast.
 
 Work is the literary and/or artistic work offered under the terms of
 this License including without limitation any production in the
@@ -228,34 +228,34 @@ Service.
 You may exercise the rights granted in the license grant for any
 purposes only if:
 
-i.  You do not use the Work for the purpose of inflicting Bodily Harm on
-    human beings (subject to criminal prosecution or otherwise) outside
-    of providing medical aid or undergoing a voluntary procedure under
-    no form of Coercion.
+i. You do not use the Work for the purpose of inflicting Bodily Harm on
+human beings (subject to criminal prosecution or otherwise) outside
+of providing medical aid or undergoing a voluntary procedure under
+no form of Coercion.
 
 ii. You do not use the Work for the purpose of Surveilling or tracking
-    individuals for financial gain.
+individuals for financial gain.
 
 iii. You do not use the Work in an Act of War.
 
 iv. You do not use the Work for the purpose of supporting or profiting
-    from an Act of War.
+from an Act of War.
 
-v.  You do not use the Work for the purpose of Incarceration.
+v. You do not use the Work for the purpose of Incarceration.
 
 vi. You do not use the Work for the purpose of extracting, processing,
-    or refining, oil, gas, or coal. Or to in any other way to
-    deliberately pollute the environment as a byproduct of manufacturing
-    or irresponsible disposal of hazardous materials.
+or refining, oil, gas, or coal. Or to in any other way to
+deliberately pollute the environment as a byproduct of manufacturing
+or irresponsible disposal of hazardous materials.
 
 vii. You do not use the Work for the purpose of expediting,
-     coordinating, or facilitating paid work undertaken by individuals
-     under the age of 12 years.
+coordinating, or facilitating paid work undertaken by individuals
+under the age of 12 years.
 
 viii. You do not use the Work to either Discriminate or spread Hate
-      Speech on the basis of sex, sexual orientation, gender identity,
-      race, age, disability, color, national origin, religion, caste, or
-      lower economic status.
+Speech on the basis of sex, sexual orientation, gender identity,
+race, age, disability, color, national origin, religion, caste, or
+lower economic status.
 
 ##
 
@@ -265,24 +265,24 @@ remove credit from a Collection or Adaptation, keep intact all copyright
 notices for the Work and provide, reasonable to the medium or means You
 are utilizing:
 
-i.  the name of the Original Author (or pseudonym, if applicable) if
-    supplied, and/or if the Original Author and/or Licensor designate
-    another party or parties (e.g., a sponsor institute, publishing
-    entity, journal) for attribution (\"Attribution Parties\") in
-    Licensor\'s copyright notice, terms of service or by other
-    reasonable means, the name of such party or parties;
+i. the name of the Original Author (or pseudonym, if applicable) if
+supplied, and/or if the Original Author and/or Licensor designate
+another party or parties (e.g., a sponsor institute, publishing
+entity, journal) for attribution (\"Attribution Parties\") in
+Licensor\'s copyright notice, terms of service or by other
+reasonable means, the name of such party or parties;
 
 ii. the title of the Work if supplied;
 
 iii. to the extent reasonably practicable, the URI, if any, that
-     Licensor to be associated with the Work, unless such URI does not
-     refer to the copyright notice or licensing information for the
-     Work; and,
+Licensor to be associated with the Work, unless such URI does not
+refer to the copyright notice or licensing information for the
+Work; and,
 
 iv. in the case of an Adaptation, a credit identifying the use of the
-    Work in the Adaptation (e.g., \"French translation of the Work by
-    Original Author,\" or \"Screenplay based on original Work by
-    Original Author\").
+Work in the Adaptation (e.g., \"French translation of the Work by
+Original Author,\" or \"Screenplay based on original Work by
+Original Author\").
 
 If any Licensor has sent notice to request removing credit, You must, to
 the extent practicable, remove any credit as requested. The credit
